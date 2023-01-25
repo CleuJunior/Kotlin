@@ -1,4 +1,4 @@
-# Kotlin Programming Logic
+# Kotlin Programming Logic  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="25" height="25"/>
 
 ### About the Repository
 
