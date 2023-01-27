@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeriesTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-01-27T16:31:47" hostname="CLEONILDO-JUNIO" time="0.024">
+  <properties/>
+  <testcase name="slicesOfTwo" classname="SeriesTest" time="0.022"/>
+  <testcase name="sliceLengthCannotBeNegative" classname="SeriesTest" time="0.0"/>
+  <testcase name="slicesOfTwoOverlap" classname="SeriesTest" time="0.001"/>
+  <testcase name="slicesOfOneFromOne" classname="SeriesTest" time="0.0"/>
+  <testcase name="slicesOfOneFromTwo" classname="SeriesTest" time="0.0"/>
+  <testcase name="emptySeriesIsInvalid" classname="SeriesTest" time="0.0"/>
+  <testcase name="sliceLengthIsTooLarge" classname="SeriesTest" time="0.0"/>
+  <testcase name="sliceLengthCannotBeZero" classname="SeriesTest" time="0.0"/>
+  <testcase name="slicesCanIncludeDuplicates" classname="SeriesTest" time="0.0"/>
+  <testcase name="slicesOfALongSeries" classname="SeriesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
