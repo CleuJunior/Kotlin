@@ -9,3 +9,13 @@ The challenges within this repository are carefully curated to cater to my learn
 In addition to the exercises, this repository also includes helpful resources such as tips and tricks, best practices, and links to other relevant resources. This will help me stay up-to-date with the latest developments in the Kotlin language and to continue to improve my understanding.
 
 ### List of Concepts and Challenges:
+
+| Title                                                                                         | Solution                                                                                                                 | Difficulty | 
+|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------|
+| [Hello World](https://github.com/CleuJunior/Kotlin/tree/main/hello-world)                     | [Link Here](https://github.com/CleuJunior/Kotlin/blob/main/hello-world/src/main/kotlin/HelloWorld.kt)                    | `Easy`     | 
+| [Hamming](https://github.com/CleuJunior/Kotlin/tree/main/hamming)                             | [Link Here](https://github.com/CleuJunior/Kotlin/blob/main/hamming/src/main/kotlin/Hamming.kt)                           | `Easy`     | 
+| [Raindrops](https://github.com/CleuJunior/Kotlin/tree/main/raindrops)                         | [Link Here](https://github.com/CleuJunior/Kotlin/blob/main/raindrops/src/main/kotlin/Raindrops.kt)                       | `Easy`     | 
+| [Pangram](https://github.com/CleuJunior/Kotlin/tree/main/pangram)                             | [Link Here](https://github.com/CleuJunior/Kotlin/blob/main/pangram/src/main/kotlin/Pangram.kt)                           | `Easy`     | 
+| [Beer Song](https://github.com/CleuJunior/Kotlin/tree/main/beer-song)                         | [Link Here](https://github.com/CleuJunior/Kotlin/blob/main/beer-song/src/main/kotlin/BeerSong.kt)                        | `Medium`   | 
+| [Difference of Squares](https://github.com/CleuJunior/Kotlin/tree/main/difference-of-squares) | [Link Here](https://github.com/CleuJunior/Kotlin/blob/main/difference-of-squares/src/main/kotlin/DifferenceOfSquares.kt) | `Easy`     | 
+| [Resistor Color](https://github.com/CleuJunior/Kotlin/tree/main/resistor-color)               | [Link Here](https://github.com/CleuJunior/Kotlin/blob/main/resistor-color/src/main/kotlin/ResistorColor.kt)              | `Easy`     |
